@@ -17,7 +17,6 @@ x86/
 
 #-- Visual C++ cache files
 .vs/
-.vscode/
 ipch/
 *.aps
 *.ncb
@@ -165,3 +164,5 @@ PowerEditor/src/MISC/md5/RCa06792
 *.db
 *.sln
 *.opendb
+config.bat
+node_modules
